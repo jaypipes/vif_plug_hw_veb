@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = vif_plug_hw_veb
+omit = tests/*,vif_plug_hw_veb/openstack/*
+
+[report]
+ignore-errors = True
